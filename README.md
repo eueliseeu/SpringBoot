@@ -6,7 +6,7 @@ Este projeto é uma aplicação Spring Boot para gerenciar uma lista de funcion�
 ### Estrutura do Projeto
 
 O projeto é estruturado da seguinte forma:
-https://mega.nz/file/dWhEwZSR#l2zo_mvr1mRBsJ7pIQ1GGiJck21UApaZxKQGs8mV4hk
+
 ```
 src/
 ├── main/
